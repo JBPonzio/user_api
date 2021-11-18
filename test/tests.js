@@ -1,4 +1,4 @@
-const User = require("./user");
+const User = require("../bo/user");
 
 describe("test unitaire", function(){
     it("Met en majuscule", function() {
